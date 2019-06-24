@@ -1,0 +1,91 @@
+1§000000000000000010000100000111§art n punc pron pron v adv art n n conj adv v v adv v prp art n punc v prp art n n punc punc prp art n
+1§00000000000110000000§conj prop pron v prp art n prp art n punc adv v adv adj n prp n prp art
+1§00111100001000000010§v prp v art n prp art prop prp n prp n adj conj adv pron v adv prp art
+1§1101000100010010§adv prp n prp art prop punc prp art prop punc prp n conj prp art
+1§0000000000000000010§art n v prp art n punc v num n punc art n prp art prop n prp art
+1§000000000110000000§pron v prp art n prp art n punc adv v adv adj n prp n prp art
+1§000000010000100011§prp prop punc pron n v n adv art n n conj v prp art n n adv
+1§0011000000000010§punc art n prp art n punc v art n adj prp art n prp art
+2§110000000000001§v prp n adj punc prp art n prp n prp art n punc prp
+3§001000000100011§v adj prp n n v prp art n prp art prop conj n prp
+1§110100010001§adv prp n prp art prop punc prp art prop punc prp
+1§00000000000110§v prp v pron n adj conj n punc v adv v prp art
+1§0011011000010§punc pron v art adj n prp art n punc n prp art
+1§00000000011§v adv art adj punc n prp art pron n prp
+1§0000001101§punc v prp art nprop punc v n adj prp
+1§0000000110§punc art n prp art n pron v prp art
+1§1100000010§adv prp art n n punc n conj prp art
+1§110100010§adv prp n prp art prop punc prp art
+1§111100010§v adv adj prp art prop conj prp art
+1§0000001110§v art n adv adj punc art n prp art
+1§1000000010§v n prp n adv prp adj n prp art
+1§01111110§punc adj adj prp art n prp art
+1§00110110§punc pron v art adj n prp art
+1§0000001110§v v art n prp v prp v prp art
+1§00000010§v prp prop conj art n prp art
+1§0111010§punc art adj prp n prp art
+1§111111§adv prp prp prp prp prp
+1§0010000§v art n adj adv prp art
+1§0000010§v prp art n prop v art
+1§111111§adj adj prp art n prp
+1§0001110§v adv v art n prp art
+1§0011110§v prp v art n prp art
+1§000110§prp v conj v prp art
+1§11111§adv prp prp prp prp
+1§00001§punc conj prp art n
+1§111110§v prp art n prp art
+1§10000§v prp prop conj art
+1§111111§v art n prp prp prp
+1§11110§pron v adv prp art
+1§10010§prp n punc prp art
+1§01111§punc art adj v art
+1§01110§punc art n prp art
+1§11010§adv prp n prp art
+1§011000§v v prp art adj n
+1§11110§v adv adj prp art
+1§11111§v adv adj prp prp
+1§011110§v v art n prp art
+1§11111§prp prp prp art n
+1§0110§punc adj prp art
+1§11111§v art n prp art
+1§1111§adv prp prp prp
+1§11111§v art n prp prp
+1§11111§v prp art n prp
+1§1111§art adj prp prp
+1§1111§pron v adv prp
+1§0001§punc art adj n
+1§0110§punc n prp art
+1§0110§punc v prp art
+1§1111§prp prp n prp
+1§010§punc prp pron
+1§0110§adj v prp art
+1§1111§v adv adj prp
+1§1111§art adj v art
+1§010§punc prp art
+1§111§adv prp prp
+1§1111§v art n prp
+1§1111§adv v n adv
+1§0110§v v prp art
+1§1110§v prp v art
+1§110§v prp art
+1§111§v adj prp
+1§111§v prp prp
+1§111§art n prp
+1§011§prp v prp
+1§0011§v v v prp
+1§111§n prp prp
+1§01§punc prp
+1§10§prp art
+1§11§adj prp
+1§11§prp prp
+1§111§v n prp
+1§111§v prp v
+1§101§adv v v
+1§11§v prp
+1§10§v art
+1§11§n prp
+1§11§adv v
+1§1§punc
+1§1§prp
+1§1§v
+1§1§n
